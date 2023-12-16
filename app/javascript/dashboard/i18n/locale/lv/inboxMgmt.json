@@ -729,7 +729,7 @@
         "AGENT_MESSAGE": "Labdien"
       },
       "BRANDING_TEXT": "Darbināts ar Smbotplus",
-      "SCRIPT_SETTINGS": "\nwindow.chatwootSettings = {options};"
+      "SCRIPT_SETTINGS": "\nwindow.smbotplusSettings = {options};"
     },
     "EMAIL_PROVIDERS": {
       "MICROSOFT": "Microsoft",

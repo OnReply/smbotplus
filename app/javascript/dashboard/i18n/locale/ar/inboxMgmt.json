@@ -729,7 +729,7 @@
         "AGENT_MESSAGE": "مرحبا"
       },
       "BRANDING_TEXT": "مدعوم بواسطة Smbotplus",
-      "SCRIPT_SETTINGS": "\n      window.chatwootSettings = {options};"
+      "SCRIPT_SETTINGS": "\n      window.smbotplusSettings = {options};"
     },
     "EMAIL_PROVIDERS": {
       "MICROSOFT": "Microsoft",

@@ -729,7 +729,7 @@
         "AGENT_MESSAGE": "Hello"
       },
       "BRANDING_TEXT": "Drevet av Smbotplus",
-      "SCRIPT_SETTINGS": "\n      window.chatwootSettings = {options};"
+      "SCRIPT_SETTINGS": "\n      window.smbotplusSettings = {options};"
     },
     "EMAIL_PROVIDERS": {
       "MICROSOFT": "Microsoft",

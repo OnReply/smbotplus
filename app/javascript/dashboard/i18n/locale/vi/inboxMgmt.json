@@ -729,7 +729,7 @@
         "AGENT_MESSAGE": "Xin chào"
       },
       "BRANDING_TEXT": "CC bởi Smbotplus",
-      "SCRIPT_SETTINGS": "\nwindow.chatwootSettings = {options};"
+      "SCRIPT_SETTINGS": "\nwindow.smbotplusSettings = {options};"
     },
     "EMAIL_PROVIDERS": {
       "MICROSOFT": "Microsoft",
