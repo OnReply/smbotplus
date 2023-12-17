@@ -50,6 +50,9 @@ export default {
       if (key === 'telegram') {
         return this.enabledFeatures.channel_telegram;
       }
+      if (key === 'line') {
+        return this.enabledFeatures.channel_line;
+      }
       if (key === 'twilio') {
         return this.enabledFeatures.channel_twilio;
       }
