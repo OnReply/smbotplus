@@ -61,3 +61,11 @@
   enabled: false
 - name: insert_article_in_reply
   enabled: false
+- name: channel_whatsapp
+  enabled: true
+- name: channel_api
+  enabled: true
+- name: channel_telegram
+  enabled: true
+- name: channel_sms
+  enabled: true

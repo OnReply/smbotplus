@@ -35,10 +35,27 @@ export default {
       if (key === 'facebook') {
         return this.enabledFeatures.channel_facebook && this.hasFbConfigured;
       }
+      if (key === 'whatsapp') {
+        return this.enabledFeatures.channel_whatsapp;
+      }
       if (key === 'email') {
         return this.enabledFeatures.channel_email;
       }
-
+      if (key === 'sms') {
+        return this.enabledFeatures.channel_sms;
+      }
+      if (key === 'api') {
+        return this.enabledFeatures.channel_api;
+      }
+      if (key === 'telegram') {
+        return this.enabledFeatures.channel_telegram;
+      }
+      if (key === 'line') {
+        return this.enabledFeatures.channel_line;
+      }
+      if (key === 'twilio') {
+        return this.enabledFeatures.channel_twilio;
+      }
       return [
         'website',
         'twilio',
