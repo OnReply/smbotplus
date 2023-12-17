@@ -69,3 +69,5 @@
   enabled: true
 - name: channel_sms
   enabled: true
+- name: channel_line
+  enabled: true
