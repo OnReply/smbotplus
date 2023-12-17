@@ -3,9 +3,9 @@
 - name: INSTALLATION_NAME
   value: 'smbotplus'
 - name: LOGO_THUMBNAIL
-  value: '/brand-assets/logo_thumbnail.png'
+  value: '/brand-assets/logo_thumbnail.svg'
 - name: LOGO
-  value: '/brand-assets/logo.svg'
+  value: '/brand-assets/logo.png'
 - name: BRAND_URL
   value: 'https://www.smbotplus.com'
 - name: WIDGET_BRAND_URL
@@ -73,4 +73,4 @@
 - name: CSML_EDITOR_HOST
   value:
 - name: LOGO_DARK
-  value: '/brand-assets/logo_dark.svg'
+  value: '/brand-assets/logo_dark.png'
