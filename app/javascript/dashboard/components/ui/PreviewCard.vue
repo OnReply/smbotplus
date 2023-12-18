@@ -7,7 +7,7 @@
         icon="checkmark-circle"
         type="solid"
         size="24"
-        class="text-woot-500 dark:text-woot-500"
+        class="text-woot-500 dark:text-woot-200"
       />
     </div>
     <div
