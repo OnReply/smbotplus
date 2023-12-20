@@ -6,7 +6,6 @@
     :class="{ 'app-rtl--wrapper': isRTLView }"
     :dir="isRTLView ? 'rtl' : 'ltr'"
   >
-    <update-banner :latest-chatwoot-version="latestChatwootVersion" />
     <template v-if="currentAccountId">
       <payment-pending-banner />
       <upgrade-banner />
