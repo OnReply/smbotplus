@@ -164,7 +164,7 @@ vi:
   integration_apps:
     dyte:
       name: "Dyte"
-      description: "Dyte là công cụ giúp bạn thêm âm thanh và video trực tiếp vào ứng dụng của mình chỉ bằng một vài dòng mã. Sự tích hợp này cho phép bạn cung cấp tùy chọn cho các đại lý của mình để thực hiện cuộc gọi thoại hoặc video với khách hàng mà không cần rời khỏi Chatwoot."
+      description: "Dyte là công cụ giúp bạn thêm âm thanh và video trực tiếp vào ứng dụng của mình chỉ bằng một vài dòng mã. Sự tích hợp này cho phép bạn cung cấp tùy chọn cho các đại lý của mình để thực hiện cuộc gọi thoại hoặc video với khách hàng mà không cần rời khỏi smbotplus."
       meeting_name: "%{agent_name} đã bắt đầu một cuộc họp"
     slack:
       name: "Slack"
